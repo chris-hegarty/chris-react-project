@@ -1,4 +1,6 @@
+//This looks for a node module with this name.
 import { React } from "react";
+
 
 function RandomNum(props){
    
